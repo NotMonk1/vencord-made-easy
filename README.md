@@ -10,8 +10,8 @@ installing this project is very easy all you have to do is
 - idrk if this will save but it *should*
 - this **MAY** break
 
-## PLEASE NOTE
-MY NOTE: THIS PROJECT IS NOT AFFILIATED WITH VENCORD
+###### PLEASE NOTE
+###### This project is not affiliated with Vencord or Discord
 
-VENCORDS NOTE: Discord is trademark of Discord Inc. Vencord is not affiliated with or endorsed by Discord Inc.
-> TAKEN FROM https://vencord.dev
+###### Discord is trademark of Discord Inc. Vencord is not affiliated with or endorsed by Discord Inc.
+###### > TAKEN FROM https://vencord.dev
