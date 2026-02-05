@@ -1,5 +1,5 @@
 # vencord-made-easy
-the 'vencord made easy' project makes installing vencord on Linux easy
+the 'vencord made easy' project makes installing vencord on Linux easy using linuxs alias
 ## STEPS
 installing this project is very easy all you have to do is
 1. open you linux terminal
